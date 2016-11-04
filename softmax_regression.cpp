@@ -21,11 +21,11 @@
 
 using namespace std;
 
-#define N 500   /* dataset size*/
-#define delta 0.0001 /* objective */
+#define M 500   /* dataset size*/
+#define delta 0.0001 /* threshold for convergence */
 #define alpha 0.1  /*learning rate*/
 #define K 2        /* K-fold */
-#define Dim dataSet[0].feature.size() /* data dim */
+#define Dim dataSet[0].feature.size() /* data dim or feature size, N */
 #define cin fin
 
 struct Data
@@ -38,7 +38,7 @@ struct Data
 struct Parament
 {
     vector<double> w; /*weight*/
-    double b; /*bias*/
+    double b;         /*bias*/
     Parament() {}
     Parament(vector<double> w, double b) : w(w), b(b) {}
 };
