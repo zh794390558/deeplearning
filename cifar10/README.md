@@ -7,6 +7,7 @@ https://github.com/tensorflow/models/tutorials/image/cifar10
 # train data
 
 放在我的百度云盘： 我的文档/data/cifar10
+http://pan.baidu.com/s/1i5l51jB
 
 # run 
 
