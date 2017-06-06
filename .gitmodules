@@ -1,0 +1,12 @@
+[submodule "k8s-tensorflow"]
+	path = k8s-tensorflow
+	url = https://github.com/k8sp/k8s-tensorflow.git
+[submodule "TensorFlow-Tutorials"]
+	path = TensorFlow-Tutorials
+	url = https://github.com/nlintz/TensorFlow-Tutorials.git
+[submodule "TensorFlow-Examples"]
+	path = TensorFlow-Examples
+	url = https://github.com/aymericdamien/TensorFlow-Examples.git
+[submodule "deep_recommend_system"]
+	path = deep_recommend_system
+	url = https://github.com/tobegit3hub/deep_recommend_system.git
