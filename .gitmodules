@@ -10,3 +10,6 @@
 [submodule "deep_recommend_system"]
 	path = deep_recommend_system
 	url = https://github.com/tobegit3hub/deep_recommend_system.git
+[submodule "models"]
+	path = models
+	url = https://github.com/tensorflow/models.git
