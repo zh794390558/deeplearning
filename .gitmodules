@@ -13,3 +13,6 @@
 [submodule "models"]
 	path = models
 	url = https://github.com/tensorflow/models.git
+[submodule "tensorflow-workshop"]
+	path = tensorflow-workshop
+	url = https://github.com/amygdala/tensorflow-workshop.git
