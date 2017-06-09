@@ -16,3 +16,6 @@
 [submodule "tensorflow-workshop"]
 	path = tensorflow-workshop
 	url = https://github.com/amygdala/tensorflow-workshop.git
+[submodule "cheatsheets-ai"]
+	path = cheatsheets-ai
+	url = https://github.com/kailashahirwar/cheatsheets-ai.git
