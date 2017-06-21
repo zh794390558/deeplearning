@@ -1,5 +1,6 @@
 [submodule "k8s-tensorflow"]
 	path = k8s-tensorflow
+	branch = zhanghui
 	url = https://github.com/k8sp/k8s-tensorflow.git
 [submodule "TensorFlow-Tutorials"]
 	path = TensorFlow-Tutorials
@@ -19,3 +20,15 @@
 [submodule "cheatsheets-ai"]
 	path = cheatsheets-ai
 	url = https://github.com/kailashahirwar/cheatsheets-ai.git
+[submodule "Tensorflow-Tutorial"]
+	path = Tensorflow-Tutorial
+	url = https://github.com/MorvanZhou/Tensorflow-Tutorial.git
+[submodule "PyTorch-Tutorial"]
+	path = PyTorch-Tutorial
+	url = https://github.com/MorvanZhou/PyTorch-Tutorial.git
+[submodule "tutorials"]
+	path = tutorials
+	url = https://github.com/MorvanZhou/tutorials.git
+[submodule "Reinforcement-learning-with-tensorflow"]
+	path = Reinforcement-learning-with-tensorflow
+	url = https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow.git
