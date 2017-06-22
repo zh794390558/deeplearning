@@ -47,3 +47,6 @@
 [submodule "Morvan/Tensorflow-Tutorial"]
 	path = Morvan/Tensorflow-Tutorial
 	url = https://github.com/MorvanZhou/Tensorflow-Tutorial.git
+[submodule "GAN/DCGAN-tensorflow"]
+	path = GAN/DCGAN-tensorflow
+	url = https://github.com/carpedm20/DCGAN-tensorflow.git
