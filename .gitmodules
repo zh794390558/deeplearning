@@ -20,15 +20,30 @@
 [submodule "cheatsheets-ai"]
 	path = cheatsheets-ai
 	url = https://github.com/kailashahirwar/cheatsheets-ai.git
-[submodule "Tensorflow-Tutorial"]
-	path = Tensorflow-Tutorial
-	url = https://github.com/MorvanZhou/Tensorflow-Tutorial.git
-[submodule "PyTorch-Tutorial"]
-	path = PyTorch-Tutorial
-	url = https://github.com/MorvanZhou/PyTorch-Tutorial.git
-[submodule "tutorials"]
-	path = tutorials
-	url = https://github.com/MorvanZhou/tutorials.git
-[submodule "Reinforcement-learning-with-tensorflow"]
-	path = Reinforcement-learning-with-tensorflow
+[submodule "GAN/KerasGAN"]
+	path = GAN/KerasGAN
+	url = https://github.com/osh/KerasGAN.git
+[submodule "GAN/ganhacks"]
+	path = GAN/ganhacks
+	url = https://github.com/soumith/ganhacks.git
+[submodule "GAN/ezgan"]
+	path = GAN/ezgan
+	url = https://github.com/jonbruner/ezgan.git
+[submodule "GAN/generative-adversarial-networks"]
+	path = GAN/generative-adversarial-networks
+	url = https://github.com/jonbruner/generative-adversarial-networks.git
+[submodule "GAN/dcgan_code"]
+	path = GAN/dcgan_code
+	url = https://github.com/Newmu/dcgan_code.git
+[submodule "Morvan/Reinforcement-learning-with-tensorflow"]
+	path = Morvan/Reinforcement-learning-with-tensorflow
 	url = https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow.git
+[submodule "Morvan/PyTorch-Tutorial"]
+	path = Morvan/PyTorch-Tutorial
+	url = https://github.com/MorvanZhou/PyTorch-Tutorial.git
+[submodule "Morvan/tutorials"]
+	path = Morvan/tutorials
+	url = https://github.com/MorvanZhou/tutorials.git
+[submodule "Morvan/Tensorflow-Tutorial"]
+	path = Morvan/Tensorflow-Tutorial
+	url = https://github.com/MorvanZhou/Tensorflow-Tutorial.git
