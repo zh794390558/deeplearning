@@ -50,3 +50,9 @@
 [submodule "GAN/DCGAN-tensorflow"]
 	path = GAN/DCGAN-tensorflow
 	url = https://github.com/carpedm20/DCGAN-tensorflow.git
+[submodule "mnist/tensorflow-mnist-tutorial"]
+	path = mnist/tensorflow-mnist-tutorial
+	url = https://github.com/martin-gorner/tensorflow-mnist-tutorial.git
+[submodule "dnn/neural-networks-and-deep-learning"]
+	path = dnn/neural-networks-and-deep-learning
+	url = https://github.com/mnielsen/neural-networks-and-deep-learning.git
