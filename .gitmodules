@@ -56,3 +56,6 @@
 [submodule "dnn/neural-networks-and-deep-learning"]
 	path = dnn/neural-networks-and-deep-learning
 	url = https://github.com/mnielsen/neural-networks-and-deep-learning.git
+[submodule "k8s-ml"]
+	path = k8s-ml
+	url = https://github.com/wangkuiyi/k8s-ml.git
