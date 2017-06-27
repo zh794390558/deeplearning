@@ -14,9 +14,6 @@
 [submodule "models"]
 	path = models
 	url = https://github.com/tensorflow/models.git
-[submodule "tensorflow-workshop"]
-	path = tensorflow-workshop
-	url = https://github.com/amygdala/tensorflow-workshop.git
 [submodule "cheatsheets-ai"]
 	path = cheatsheets-ai
 	url = https://github.com/kailashahirwar/cheatsheets-ai.git
@@ -59,3 +56,12 @@
 [submodule "k8s-ml"]
 	path = k8s-ml
 	url = https://github.com/wangkuiyi/k8s-ml.git
+[submodule "tf-tutorials/tensorflow_examples"]
+	path = tf-tutorials/tensorflow_examples
+	url = https://github.com/tobegit3hub/tensorflow_examples.git
+[submodule "tf-tutorials/tensorflow-workshop"]
+	path = tf-tutorials/tensorflow-workshop
+	url = https://github.com/amygdala/tensorflow-workshop.git
+[submodule "tf-tutorials/TensorFlow-Tutorials"]
+	path = tf-tutorials/TensorFlow-Tutorials
+	url = https://github.com/nlintz/TensorFlow-Tutorials.git
