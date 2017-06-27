@@ -2,9 +2,6 @@
 	path = k8s-tensorflow
 	branch = zhanghui
 	url = https://github.com/k8sp/k8s-tensorflow.git
-[submodule "TensorFlow-Tutorials"]
-	path = TensorFlow-Tutorials
-	url = https://github.com/nlintz/TensorFlow-Tutorials.git
 [submodule "TensorFlow-Examples"]
 	path = TensorFlow-Examples
 	url = https://github.com/aymericdamien/TensorFlow-Examples.git
@@ -65,3 +62,6 @@
 [submodule "tf-tutorials/TensorFlow-Tutorials"]
 	path = tf-tutorials/TensorFlow-Tutorials
 	url = https://github.com/nlintz/TensorFlow-Tutorials.git
+[submodule "theano-tutorials/Theano-Tutorials"]
+	path = theano-tutorials/Theano-Tutorials
+	url = https://github.com/Newmu/Theano-Tutorials.git
