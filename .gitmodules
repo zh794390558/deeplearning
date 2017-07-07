@@ -65,3 +65,9 @@
 [submodule "theano-tutorials/Theano-Tutorials"]
 	path = theano-tutorials/Theano-Tutorials
 	url = https://github.com/Newmu/Theano-Tutorials.git
+[submodule "nlp/cnn-text-classification-tf"]
+	path = nlp/cnn-text-classification-tf
+	url = https://github.com/dennybritz/cnn-text-classification-tf.git
+[submodule "papers"]
+	path = papers
+	url = https://github.com/aleju/papers.git
