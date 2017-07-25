@@ -71,3 +71,6 @@
 [submodule "papers"]
 	path = papers
 	url = https://github.com/aleju/papers.git
+[submodule "GAN/AdversarialNetsPapers"]
+	path = GAN/AdversarialNetsPapers
+	url = https://github.com/zhangqianhui/AdversarialNetsPapers.git
