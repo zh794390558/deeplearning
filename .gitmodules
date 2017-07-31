@@ -74,3 +74,9 @@
 [submodule "GAN/AdversarialNetsPapers"]
 	path = GAN/AdversarialNetsPapers
 	url = https://github.com/zhangqianhui/AdversarialNetsPapers.git
+[submodule "tf-tutorials/handson-ml"]
+	path = tf-tutorials/handson-ml
+	url = https://github.com/ageron/handson-ml.git
+[submodule "tf-tutorials/tensorflow-talk-debugging"]
+	path = tf-tutorials/tensorflow-talk-debugging
+	url = https://github.com/wookayin/tensorflow-talk-debugging.git
