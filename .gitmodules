@@ -83,3 +83,6 @@
 [submodule "tf-tutorials/TF-Tutorials"]
 	path = tf-tutorials/TF-Tutorials
 	url = https://github.com/awjuliani/TF-Tutorials.git
+[submodule "tf-tutorials/tensorflow_notes"]
+	path = tf-tutorials/tensorflow_notes
+	url = https://github.com/warmspringwinds/tensorflow_notes.git
