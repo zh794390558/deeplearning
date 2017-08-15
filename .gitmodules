@@ -86,3 +86,6 @@
 [submodule "tf-tutorials/tensorflow_notes"]
 	path = tf-tutorials/tensorflow_notes
 	url = https://github.com/warmspringwinds/tensorflow_notes.git
+[submodule "tf-tutorials/EffectiveTensorflow"]
+	path = tf-tutorials/EffectiveTensorflow
+	url = https://github.com/vahidk/EffectiveTensorflow.git
