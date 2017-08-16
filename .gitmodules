@@ -89,3 +89,6 @@
 [submodule "tf-tutorials/EffectiveTensorflow"]
 	path = tf-tutorials/EffectiveTensorflow
 	url = https://github.com/vahidk/EffectiveTensorflow.git
+[submodule "GAN/DCGAN-LSGAN-WGAN-WGAN-GP-Tensorflow"]
+	path = GAN/DCGAN-LSGAN-WGAN-WGAN-GP-Tensorflow
+	url = https://github.com/LynnHo/DCGAN-LSGAN-WGAN-WGAN-GP-Tensorflow.git
