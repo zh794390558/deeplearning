@@ -22,17 +22,24 @@
 
 # impartant 
 
-1. lsgan loss
-
-	* Enforced
-
 1. dcgan loss
 
+	* single gpu with batch size 128, lr=1e-4
 	* Enforced
+	* the best one
+
+1. lsgan loss
+
+	* double gpu with batch size 128, lr=1e-4 (maybe 256 batch size is good)
+	* Enforced
+	* unvoice has some high energe in low dimension. 
+	* some nosie
 
 1. wgan-gp loss
 
 	* Enforced, but has some big value in time dimension.
+	* unvoice has some high energe in low dimension. 
+	* some nosie
 
 1. 200 frames slipping windown and 50% overlap of feautre.
 
