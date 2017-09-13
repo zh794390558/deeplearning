@@ -92,3 +92,6 @@
 [submodule "GAN/DCGAN-LSGAN-WGAN-WGAN-GP-Tensorflow"]
 	path = GAN/DCGAN-LSGAN-WGAN-WGAN-GP-Tensorflow
 	url = https://github.com/LynnHo/DCGAN-LSGAN-WGAN-WGAN-GP-Tensorflow.git
+[submodule "rnn/awesome-rnn"]
+	path = rnn/awesome-rnn
+	url = https://github.com/kjw0612/awesome-rnn.git
