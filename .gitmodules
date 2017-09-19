@@ -95,3 +95,6 @@
 [submodule "rnn/awesome-rnn"]
 	path = rnn/awesome-rnn
 	url = https://github.com/kjw0612/awesome-rnn.git
+[submodule "rnn/awesome-speech-recognition-speech-synthesis-papers"]
+	path = rnn/awesome-speech-recognition-speech-synthesis-papers
+	url = https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers.git

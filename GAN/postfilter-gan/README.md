@@ -45,9 +45,9 @@
 
 1. No Batch Norm is good. 
 
-1. Z-score pre-prosess of data is good.
+1. Z-score pre-prosess on global data is good.
 
-1. D and G learning rate = 1e-4; batch_size = 128 is work. 100K step is perfered. 
+1. lsgan; D and G learning rate = 1e-4; batch_size = 128 is work. 100K step is perfered. G L1 lambda is 1e-6 or 1e-5 
 
 1. 不含静音的数据集可以工作，含静音的数据集没有测试。
 
@@ -55,8 +55,10 @@
    GAN 的 G loss 应该比较自由，对结果约束不够。 通过加入 生成图片和真实图片的 L1 正则约束下 G ，同时 L1 有类似 MSE 的效果，可以是结果圆润、模糊或平滑些。
   lambda 选择准则： 使 L1 loss 和 G loss 在一个数量级上。此处是 1e-6.
 
-# Reference
+1. Without L1 regularizer, dcgan > lsgan > wgan-gp.
+   with L1 regularizer, lsgan > dcgan > wgan-gp
 
+# Reference
 
 1. [DIGITS-GAN](https://github.com/NVIDIA/DIGITS)
    This is the repo framework
@@ -79,6 +81,7 @@
 1. [Takuhiro Kaneko](http://www.kecl.ntt.co.jp/people/kaneko.takuhiro/index.html)
 
 1. [Generative Adversarial Network-based Postfilter for STFT Spectrograms](http://www.kecl.ntt.co.jp/people/kaneko.takuhiro/projects/ganp_stft/index.html)
+
 # TODO
 
 
