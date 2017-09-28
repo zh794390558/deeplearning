@@ -32,3 +32,20 @@ model)
 * [Convolutional Neural Networks for Speech Recognition](https://pdfs.semanticscholar.org/86ef/e7769f2b8a0e15ca213ab09881e6705caeb0.pdf)
 
 * [Deep Speech 2: End-to-End Speech Recognition in English and Mandarin](https://arxiv.org/abs/1512.02595)
+
+* [NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE](https://arxiv.org/abs/1409.0473)
+
+* [Attention-Based Models for Speech Recognition](https://arxiv.org/abs/1506.07503)
+
+* [Attention-Based End-to-End Speech Recognition in Mandarin](https://arxiv.org/abs/1707.07167)
+
+* [Advances in Joint CTC-Attention based End-to-End Speech Recognition with a Deep CNN Encoder and RNN-LM](https://arxiv.org/pdf/1706.02737.pdf)
+
+* [Regularizing Recurrent Networks—On Injected Noise and Norm-based Methods](https://pdfs.semanticscholar.org/44a4/7c2bee3ea51c17bd8d16a64053c18856d427.pdf)
+
+* [END-TO-END ATTENTION-BASED LARGE VOCABULARY SPEECH RECOGNITION](https://arxiv.org/pdf/1508.04395.pdf)
+
+* [Listen, Attend and Spell](https://arxiv.org/pdf/1508.01211.pdf)
+  本文写的很好，值得一看。有作者训练的经验，模型的理解。方法描述简单清晰。非常适合经验不足的同学看。
+  This attention vector can be thought of as skip connections that allow the information and the gradients to flow more effectively in an RNN.
+  The attention model was also able to identify the start and end of the utterance properly.
